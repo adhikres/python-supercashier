@@ -1,8 +1,8 @@
 # Python-SuperCashier
 
 # Latar Belakang Problems
-Andi adalah seorang pemilik supertmarket besar di salah satu kota di Indonesia. Andi memiliki rencana untuk melakukan ekspansi bisnis, yaitu Andi akan membuat sistem kasir yang self-service di supermarket miliknya. Sehingga customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli,dan harga yang dibeli dan fitur yang lain
-Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersebut. Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu Andi membutuhkan programmer untuk membuatkan fitur-fitur agar system kasir slef-service di supermarket itu bisa berjalan dengan lancar
+Andi adalah seorang pemilik supertmarket besar di salah satu kota di Indonesia. Andi memiliki rencana untuk melakukan ekspansi bisnis, yaitu Andi akan membuat sistem kasir yang self-service di supermarket miliknya. Sehingga customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga yang dibeli dan fitur yang lain.
+Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersebut. Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu Andi membutuhkan programmer untuk membuatkan fitur-fitur agar system kasir self-service di supermarket itu bisa berjalan dengan lancar.
 
 # Objective dan Requirement Project
 Membuat sebuah program kasir sederhana yang dapat melakukan aktivitas
